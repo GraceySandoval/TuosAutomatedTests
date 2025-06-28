@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Estimate and Quotes</name>
+   <tag></tag>
+   <elementGuidId>b44d80ca-3563-408e-9ff6-0596ce325fba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-menu-item-:r1a:']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Estimate and Quotes&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>410f7e7b-ca1b-436d-b7a8-d5854327a94e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/revenue-and-collections/estimates-and-quotes</value>
+      <webElementGuid>367c40db-9174-457f-a908-3a0ff409ddaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Estimate and Quotes</value>
+      <webElementGuid>3a3c2db3-4a26-49dc-b2ef-f2fa8e281a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-menu-item-:r1a:&quot;)/a[1]</value>
+      <webElementGuid>54702f8e-f5f5-49d8-9676-fddf20cdc531</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-menu-item-:r1a:']/a</value>
+      <webElementGuid>e6d12361-d955-4ba2-a2d7-7ec2b3dffa46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Estimate and Quotes')]</value>
+      <webElementGuid>f9b3ab81-4499-4b4a-8336-f13d117ec57a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 100%'])[4]/following::a[2]</value>
+      <webElementGuid>d46fc2e9-b578-4b67-85e5-ecee8ee47828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 100%'])[3]/following::a[2]</value>
+      <webElementGuid>ec382ef5-73c8-4fcb-9f3a-ca5078d49006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recurring Invoices'])[1]/preceding::a[1]</value>
+      <webElementGuid>d136a291-0bfb-4721-a57c-af8910d0c899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoices'])[1]/preceding::a[2]</value>
+      <webElementGuid>86e057ba-95cf-48aa-97f7-2c376381636b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Estimate and Quotes']/parent::*</value>
+      <webElementGuid>eeff661e-2972-41dc-bf96-550f3f06b01f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/revenue-and-collections/estimates-and-quotes')]</value>
+      <webElementGuid>8a5103a9-8484-4894-8e36-87bcea7f7e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/a</value>
+      <webElementGuid>2475a7f3-409b-45ec-9ec7-79fab8fb7fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/revenue-and-collections/estimates-and-quotes' and (text() = 'Estimate and Quotes' or . = 'Estimate and Quotes')]</value>
+      <webElementGuid>b531cbff-ac9d-4591-9957-0f47229da9ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
