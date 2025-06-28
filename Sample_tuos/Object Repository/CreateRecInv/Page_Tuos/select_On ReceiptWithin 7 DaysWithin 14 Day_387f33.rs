@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_On ReceiptWithin 7 DaysWithin 14 Day_387f33</name>
+   <tag></tag>
+   <elementGuidId>1a531e77-026c-4128-aa3e-b5926b16cde7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='paymentDueDate']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;paymentDueDate&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>form >> internal:has-text=&quot;CustomerRyanBushZIRKELS SOLUTIONS INCBushSteveDavid BeeContact NameDavid BeeEmai&quot;i >> select[name=&quot;paymentDueDate&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>29a80003-9693-481e-8e8e-39617a3ec5a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>paymentDueDate</value>
+      <webElementGuid>3c9a5bf5-8a8c-408f-96a3-b0113d420f27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-1 block w-full py-2 pl-3 pr-10 lg:text-sm md:text-xs text-xs focus:outline-none border-primary-300 focus:border-primary-500 focus:ring-primary-500</value>
+      <webElementGuid>857e0573-0963-481d-ab87-e3d57396d8ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>On ReceiptWithin 7 DaysWithin 14 DaysWithin 30 DaysWithin 45 DaysWithin 60 DaysWithin 90 Days</value>
+      <webElementGuid>1ebcac54-4f22-441b-9a96-2da5ec0256ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;lg:block md:hidden hidden lg:h-full lg:w-full&quot;]/div[@class=&quot;grid h-full gap-0 grid-cols-6&quot;]/div[@class=&quot;h-full col-span-5&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;mx-auto max-w-full&quot;]/div[@class=&quot;p-4 space-y-4&quot;]/div[2]/div[@class=&quot;p-4 bg-white rounded-b-xl rounded-tr-xl&quot;]/div[@class=&quot;px-1&quot;]/div[@class=&quot;mx-auto w-full&quot;]/div[@class=&quot;overflow-visible bg-white sm:rounded-lg&quot;]/form[1]/div[@class=&quot;lg:px-6 md:px-4 px-2.5 space-y-6 pb-4&quot;]/div[@class=&quot;flex flex-col space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0 lg:justify-between&quot;]/div[@class=&quot;lg:w-[73%] w-full md:w-full&quot;]/div[@class=&quot;flex flex-col w-full space-y-4&quot;]/div[@class=&quot;flex flex-col space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0 lg:justify-between&quot;]/div[@class=&quot;flex flex-col w-full space-y-4&quot;]/div[1]/select[@class=&quot;mt-1 block w-full py-2 pl-3 pr-10 lg:text-sm md:text-xs text-xs focus:outline-none border-primary-300 focus:border-primary-500 focus:ring-primary-500&quot;]</value>
+      <webElementGuid>6b30e7ce-5864-4706-98e4-1d30dcdbad66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='paymentDueDate']</value>
+      <webElementGuid>83f5ef7b-eb8d-4285-b862-8e2d11f1adc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/form/div/div/div/div/div[6]/div[2]/div/select</value>
+      <webElementGuid>35258daa-89df-4698-9869-a55779c29c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Due'])[1]/following::select[1]</value>
+      <webElementGuid>d76a8054-cab2-4f64-ab7b-01e01bc3a3be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice Date'])[1]/following::select[1]</value>
+      <webElementGuid>f687b72b-90f1-4d27-8305-ba43d8c8231d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Schedule'])[1]/preceding::select[1]</value>
+      <webElementGuid>d931dac5-560d-4ae7-9f32-452aa5254eec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repeat this Invoice'])[1]/preceding::select[1]</value>
+      <webElementGuid>3bdc3d03-db44-4036-be4f-2a28396b372e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>0db6769c-27cb-47c3-925d-ec2bcf0648d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'paymentDueDate' and (text() = 'On ReceiptWithin 7 DaysWithin 14 DaysWithin 30 DaysWithin 45 DaysWithin 60 DaysWithin 90 Days' or . = 'On ReceiptWithin 7 DaysWithin 14 DaysWithin 30 DaysWithin 45 DaysWithin 60 DaysWithin 90 Days')]</value>
+      <webElementGuid>ef914717-f750-4841-9386-382d578b8f43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
