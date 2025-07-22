@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a New Estimate</description>
+   <name>Create Estimate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>abd4d867-a86e-449e-a7c2-654221ae96d2</testCaseGuid>
+</TestCaseEntity>
